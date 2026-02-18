@@ -8,7 +8,7 @@ Ce laboratoire consiste à créer une application Android avec :
 
 1. L’utilisateur remplit les champs du formulaire.
 2. Il clique sur **Envoyer**.
-3. Les données sont transmises à `Screen2Activity`.
+3. Les données sont transmises à `MainActivity2`.
 4. L’écran de récapitulatif affiche les données reçues.
 5. Le bouton **Retour** ramène à l’écran formulaire.
    ## Technologies
